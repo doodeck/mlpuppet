@@ -1,0 +1,114 @@
+[
+    {
+        "href": "contents/TOC.html",
+        "title": "Table of Contents"
+    },
+    {
+        "href": "contents/acknowledgements.html",
+        "title": "Acknowledgements"
+    },
+    {
+        "href": "contents/notation.html",
+        "title": "Notation"
+    },
+    {
+        "href": "contents/intro.html",
+        "title": "1 Introduction"
+    },
+    {
+        "href": "contents/part_basics.html",
+        "title": "Part I: Applied Math and Machine Learning Basics"
+    },
+    {
+        "href": "contents/linear_algebra.html",
+        "title": "2 Linear Algebra"
+    },
+    {
+        "href": "contents/prob.html",
+        "title": "3 Probability and Information Theory"
+    },
+    {
+        "href": "contents/numerical.html",
+        "title": "4 Numerical Computation"
+    },
+    {
+        "href": "contents/ml.html",
+        "title": "5 Machine Learning Basics"
+    },
+    {
+        "href": "contents/part_practical.html",
+        "title": "Part II: Modern Practical Deep Networks"
+    },
+    {
+        "href": "contents/mlp.html",
+        "title": "6 Deep Feedforward Networks"
+    },
+    {
+        "href": "contents/regularization.html",
+        "title": "7 Regularization for Deep Learning"
+    },
+    {
+        "href": "contents/optimization.html",
+        "title": "8 Optimization for Training Deep Models"
+    },
+    {
+        "href": "contents/convnets.html",
+        "title": "9 Convolutional Networks"
+    },
+    {
+        "href": "contents/rnn.html",
+        "title": "10 Sequence Modeling: Recurrent and Recursive Nets"
+    },
+    {
+        "href": "contents/guidelines.html",
+        "title": "11 Practical Methodology"
+    },
+    {
+        "href": "contents/applications.html",
+        "title": "12 Applications"
+    },
+    {
+        "href": "contents/part_research.html",
+        "title": "Part III: Deep Learning Research"
+    },
+    {
+        "href": "contents/linear_factors.html",
+        "title": "13 Linear Factor Models"
+    },
+    {
+        "href": "contents/autoencoders.html",
+        "title": "14 Autoencoders"
+    },
+    {
+        "href": "contents/representation.html",
+        "title": "15 Representation Learning"
+    },
+    {
+        "href": "contents/graphical_models.html",
+        "title": "16 Structured Probabilistic Models for Deep Learning"
+    },
+    {
+        "href": "contents/monte_carlo.html",
+        "title": "17 Monte Carlo Methods"
+    },
+    {
+        "href": "contents/partition.html",
+        "title": "18 Confronting the Partition Function"
+    },
+    {
+        "href": "contents/inference.html",
+        "title": "19 Approximate Inference"
+    },
+    {
+        "href": "contents/generative_models.html",
+        "title": "20 Deep Generative Models"
+    },
+    {
+        "href": "contents/bib.html",
+        "title": "Bibliography"
+    },
+    {
+        "href": "contents/index-.html",
+        "title": "Index"
+    }
+]
